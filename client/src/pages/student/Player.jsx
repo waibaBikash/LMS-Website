@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const Player = () => {
   return (
@@ -8,4 +8,4 @@ const Player = () => {
   )
 }
 
-export default Player
+export default Player;
