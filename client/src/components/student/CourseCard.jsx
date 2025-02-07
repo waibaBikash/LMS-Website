@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const CourseCard = () => {
   return (
@@ -8,4 +8,4 @@ const CourseCard = () => {
   )
 }
 
-export default CourseCard
+export default CourseCard;
