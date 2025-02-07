@@ -1,5 +1,5 @@
 
-import React from 'react'
+import React from 'react';
 
 const Companies = () => {
   return (
@@ -9,4 +9,4 @@ const Companies = () => {
   )
 }
 
-export default Companies
+export default Companies;
