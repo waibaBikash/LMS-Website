@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const Educator = () => {
   return (
@@ -8,4 +8,4 @@ const Educator = () => {
   )
 }
 
-export default Educator
+export default Educator;
