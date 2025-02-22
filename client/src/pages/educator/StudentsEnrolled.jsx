@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const StudentsEnrolled = () => {
   return (
@@ -8,4 +8,4 @@ const StudentsEnrolled = () => {
   )
 }
 
-export default StudentsEnrolled
+export default StudentsEnrolled;
